@@ -1,0 +1,12 @@
+.HomePageComponent {
+    width: 100%;
+    height: 500px;
+    text-align: center;
+}
+
+.SearchArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
